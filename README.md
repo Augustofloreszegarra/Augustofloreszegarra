@@ -1,1 +1,3 @@
 # Hola! me llamo Augusto! y soy Full Stack Developer
+## Sobre mi
+Hola! hace año y medio que empece a estudiar por mi cuenta programacion y fue un viaje emocionante muy entretenido y muy desafiante aveces, pero me propuse una meta y y hago todo lo posible para poder cumplirla, mi objetivo, ser un programador fullstack que provea a mi famialia seguridad y estabilidad economica haciendo algo que disfrute.
