@@ -21,3 +21,9 @@ A medida que continúo mi viaje en el desarrollo Full Stack, siempre estoy busca
 
 - Dancing: ...
   kjasdhjkasdh
+
+## Lenguajes
+
+html
+css
+javascript
